@@ -1,4 +1,4 @@
-var geojsonData = {
+{
   "type": "FeatureCollection",
   "features": [
     {
